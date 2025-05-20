@@ -22,7 +22,7 @@ games = [
      "image": "https://cdn2.steamgriddb.com/thumb/ac79bc4536e67368f7a054716ebdf36f.jpg",
      "pcsAvailable": random.sample(pcs, 14)},
     {"id": 5, "title": "Microsoft Flight Simulator", "genre": ["Simulación", "Estrategia"],
-     "image": "",
+     "image": "https://cdn2.steamgriddb.com/thumb/49318f67c631cd59c097b51933b5df26.jpg",
      "pcsAvailable": random.sample(pcs, 12)},
     {"id": 6, "title": "Half-Life: Alyx", "genre": ["FPS", "Realidad_VR"],
      "image": "https://cdn2.steamgriddb.com/thumb/980c9d1c2752a29a8cdc5669b9e22e6f.jpg",
